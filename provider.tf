@@ -8,7 +8,7 @@ terraform {
     }
   }
 
-#  backend "s3" {}  # This will be dynamically configured via CLI or Jenkins
+ backend "s3" {}  # This will be dynamically configured via CLI or Jenkins
 }
 
 # Provider block
