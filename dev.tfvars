@@ -1,10 +1,10 @@
 region                        = "us-east-2"
 create                        = true
-company_name                  = "enterpricetech"
+company_name                  = "enterprice-ally"
 department                    = "devops"
 application                   = "dataiku"
 env                           = "dev"
-usecase                       = "backup"
+usecase                       = "backup-123"
 account_id                    = "010526277866"
 enable_versioning             = true
 public_bucket                 = true
